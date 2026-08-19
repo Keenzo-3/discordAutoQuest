@@ -10,7 +10,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // ====== CONFIG ======
-const GUILD_ID = '1504422135303634994';
+const GUILD_ID = '1396435312825335860';
 
 // ====== FAKE PORT CHO RENDER ======
 const PORT = process.env.PORT || 3000;
